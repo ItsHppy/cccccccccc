@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\st\source\repos\sfml-template5\game.h(9,4): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\source\repos\sfml-template5\game.h(8,31): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\source\repos\sfml-template5\game.h(10,28): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  sfml-template5.vcxproj -> C:\Users\st\source\repos\sfml-template5\x64\Debug\sfml-template5.exe
